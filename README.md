@@ -6,6 +6,7 @@ Homebrew Cask formulae for OMNEON apps.
 
 ```bash
 brew tap kraken-19/tap
+brew install --cask artefact
 brew install --cask codecompass
 ```
 
@@ -13,10 +14,12 @@ brew install --cask codecompass
 
 | App | Command | Description |
 |-----|---------|-------------|
+| **Artefact** | `brew install --cask artefact` | Universal file viewer, editor, creator & converter |
 | **CodeCompass** | `brew install --cask codecompass` | Dev Cockpit — Terminal, Roadmap, Knowledge Base & AI |
 
 ## Updates
 
 ```bash
+brew upgrade --cask artefact
 brew upgrade --cask codecompass
 ```
