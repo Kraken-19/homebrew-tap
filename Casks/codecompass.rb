@@ -1,6 +1,6 @@
 cask "codecompass" do
-  version "0.1.2"
-  sha256 "61fcad8d06a612f1685a4d4c4a3c0adcd0580fe69ccc59cd43679d7ae20791a6"
+  version "0.1.3"
+  sha256 "90cfa4a6c67f8cff5cc23a8dbc89e78e0313621f834c8f6fa53e5c7d4d209c03"
 
   url "https://omneon-storage.fsn1.your-objectstorage.com/releases/codecompass/#{version}/CodeCompass-#{version}.dmg"
   name "CodeCompass"
