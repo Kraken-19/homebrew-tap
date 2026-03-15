@@ -1,6 +1,6 @@
 cask "artefact" do
-  version "0.2.1"
-  sha256 "d813ea8eabd2a5a8e9289cc94f28dc0fb2ee5f0e0808a6b946d89368cff2e694"
+  version "0.1.1"
+  sha256 "e7af9b614cea5062f24b8852b4d42521ade546e04d792b3f5da28f4b00ee3b08"
 
   url "https://omneon-storage.fsn1.your-objectstorage.com/releases/artefact/#{version}/Artefact-#{version}.dmg"
   name "Artefact"
