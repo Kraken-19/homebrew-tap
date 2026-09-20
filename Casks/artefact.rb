@@ -7,7 +7,7 @@ cask "artefact" do
   desc "Universal file viewer, editor, creator & converter for macOS"
   homepage "https://artefact.omneon.ch"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Artefact.app"
 

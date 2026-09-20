@@ -7,7 +7,7 @@ cask "codecompass" do
   desc "Dev Cockpit — Terminal, Roadmap, Knowledge Base & AI Assistant"
   homepage "https://codecompass.omneon.ch"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "CodeCompass.app"
 

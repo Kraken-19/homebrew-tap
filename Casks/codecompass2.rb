@@ -7,7 +7,7 @@ cask "codecompass2" do
   desc "Your work, run with AI — inbox, projects, stages, deadlines and the sessions working on them"
   homepage "https://codecompass.omneon.ch"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "CodeCompass 2.app"
 
